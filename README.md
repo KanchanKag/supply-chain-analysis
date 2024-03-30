@@ -9,11 +9,17 @@ Overview:
 Supply Chain Analysis involves examining different elements of the supply chain network, including:
 
 Production
+
 Logistics
+
 Pricing
+
 Revenue
+
 Inventory management
+
 Cost analysis
+
 By conducting thorough analysis, we can identify areas for improvement and implement strategies to enhance efficiency and profitability.
 
 Analysis Tasks:
